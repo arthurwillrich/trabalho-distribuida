@@ -1,0 +1,20 @@
+//config nodo0
+processos = 3
+id = 0
+0 = localhost:6000
+1 = localhost:6001
+2 = localhost:6002
+
+//config nodo1
+processos = 3
+id = 1
+0 = localhost:6000
+1 = localhost:6001
+2 = localhost:6002
+
+//config nodo2
+processos = 3
+id = 2
+0 = localhost:6000
+1 = localhost:6001
+2 = localhost:6002
